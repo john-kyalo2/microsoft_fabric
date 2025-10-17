@@ -6,8 +6,7 @@ This assignment will challenge you to apply your knowledge of Microsoft Fabric t
 
 ## 🏪 Scenario
 
-You’ve been brought on as a data analytics consultant by **FreshMart Grocers**, a mid-sized grocery retail chain that operates across several cities and countries. Their leadership is seeking clarity on sales performance, regional dynamics, employee productivity, and customer behavior. The business has been collecting data in structured CSV files, but lacks a unified, insightful reporting system.
-
+DOCUMENTATION AT ITS BEST
 FreshMart’s management wants you to help them:
 
 - Integrate their various data files into a centralized data environment.
